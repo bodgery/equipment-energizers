@@ -1,0 +1,14 @@
+#+TITLE: belt sander energizer BOM
+
+| part                    | vendor            | vendor part number | quantity | price | note |
+|-------------------------+-------------------+--------------------+----------+-------+------|
+| contactor               | automation direct | WDP40-3L-120       |        1 | 20.00 |      |
+| coil relay              |                   |                    |          |       |      |
+| power entry             |                   |                    |          |       |      |
+| power exit              |                   |                    |          |       |      |
+| push button assy.       | automation direct | GCX3152            |        1 | 11.00 | todo |
+| microcontroller         | digikey           | 1528-1223-ND       |        1 | 10.00 | todo |
+| energized indicator     |                   |                    |          |       | todo |
+| RFID reader             | amazon            | RDM6300            |          |       |      |
+| authenticated indicator |                   |                    |          |       | todo |
+| DC power supply         |                   |                    |          |       | todo |
